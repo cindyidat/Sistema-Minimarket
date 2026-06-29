@@ -141,4 +141,4 @@ public class BeanProducto {
     public String getTipoIgv() { return tipoIgv; }
     public void setTipoIgv(String tipoIgv) { this.tipoIgv = tipoIgv; }
 
-} // Prueba GitHub
+} // Prueba GitHub 2
